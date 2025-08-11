@@ -15,7 +15,7 @@
 #include <time.h>
 #include <errno.h>
 
-#define BINSERVER "117.50.197.134:6666" 
+#define BINSERVER "117.50.197.134" 
 
 extern pthread_mutex_t scanner_mutex;
 
