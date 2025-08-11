@@ -1,0 +1,2 @@
+root root 800 4400 admin
+#user pass maxtime maxbots, admin or leave blank
